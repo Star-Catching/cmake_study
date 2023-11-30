@@ -1,0 +1,3 @@
+/home/wxz/C++敲代码/cmake_study/01-basic/B-hello-headers/build/CMakeFiles/rebuild_cache.dir
+/home/wxz/C++敲代码/cmake_study/01-basic/B-hello-headers/build/CMakeFiles/edit_cache.dir
+/home/wxz/C++敲代码/cmake_study/01-basic/B-hello-headers/build/CMakeFiles/hello_headers.dir

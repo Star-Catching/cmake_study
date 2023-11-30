@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/cmake_examples_inst_bin.dir/src/main.cpp.o  -o cmake_examples_inst_bin  -Wl,-rpath,/home/wxz/C++敲代码/cmake_study/01-basic/E-installing/build: libcmake_examples_inst.so 

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wxz/C++敲代码/cmake_study/01-basic/B-hello-headers/src/Hello.cpp
+iostream
+-
+Hello.h
+/home/wxz/C++敲代码/cmake_study/01-basic/B-hello-headers/src/Hello.h
+
+/home/wxz/C++敲代码/cmake_study/01-basic/B-hello-headers/src/main.cpp
+Hello.h
+/home/wxz/C++敲代码/cmake_study/01-basic/B-hello-headers/src/Hello.h
+
